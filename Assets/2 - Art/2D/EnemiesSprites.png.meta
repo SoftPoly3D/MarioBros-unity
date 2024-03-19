@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 80a13160c6759db4fbf3499aa685e121
+guid: 39488334c20d11e43a3a85c93b5c835d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,41 +108,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
-        Mario Bros 3_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 596
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41f3c1d266434774280ea6e37e3ef4a9
-      internalID: 1039104255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 0997b6e440eee19438ac4a55425724c1
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros 3_0: 1039104255
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
